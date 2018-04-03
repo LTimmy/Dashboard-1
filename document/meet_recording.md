@@ -11,7 +11,7 @@
 
 产品讨论：初步讨论产品基本业务，定义产品范围
 
-![初步基本业务](D:\大学软件\qq\272283540\FileRecv\MobileFile\扫码点餐系统)
+![初步基本业务](https://github.com/E-Order/Dashboard/blob/master/document/graph/%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E7%B3%BB%E7%BB%9F.jpg)
 围绕产品愿景的检查表（课程PPT），研讨产品的亮点与特色
 至少一个业务的亮点
 从业务流程再造、新业务、UX改进、新技术应用等角度思考技术亮点
