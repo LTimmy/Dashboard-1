@@ -7,6 +7,7 @@
  - 受访人数：100人
  - 受访群体：主要为高校大学生
  - 调查时间：2018年4月1日到2018年4月3日
+ - 调查目的：了解目前扫码点餐程序的使用情况，对目前市面上存在的扫码点餐程序的看法以及对扫码点餐程序的期待
  
 ### 2.调查内容及结果
     [问卷调查及结果](https://github.com/E-Order/Dashboard/blob/master/document/graph/investigation.pdf)
