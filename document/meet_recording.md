@@ -35,3 +35,6 @@
 
 成品：可以前后端通信的点餐微信小程序
 
+**第三次会议记录** 2018/4/8
+会议目标：了解工作进度，讨论用例
+![用例图](https://github.com/E-Order/Dashboard/blob/master/document/graph/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
