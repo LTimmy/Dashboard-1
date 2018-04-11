@@ -42,3 +42,10 @@
 会议目标：了解工作进度，讨论用例
 
 ![用例图](https://github.com/E-Order/Dashboard/blob/master/document/graph/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
+
+---
+
+**第四次会议记录** 2018/4/12
+
+会议目标：汇报学习工作，讨论用例文档和分工
+
