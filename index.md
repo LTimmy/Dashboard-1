@@ -1,2 +1,2 @@
 # index
-## lesson3 homework
+* lesson3 homework
