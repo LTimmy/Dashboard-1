@@ -14,6 +14,8 @@
 15331286  |谭逸韵  |前端工程师、测试工程师
 15331209  |林子琪  |后端工程师、测试工程师
 
+kanban管理工具：[github kanban](https://github.com/orgs/E-Order/projects/1)
+
 ## 三、Investigation(项目前期调研)
 [点击此处查看前期调研报告](https://github.com/E-Order/Dashboard/blob/master/document/Investigation.md)
 ## 四、Vision(项目愿景)
