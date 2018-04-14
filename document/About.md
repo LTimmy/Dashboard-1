@@ -6,8 +6,6 @@ Records of E-order deelopment progress.
 
 项目E-order利用微信小程序的框架作为前端和Spring作为后端来构建点餐软件，以实现人们能够在餐馆利用手机实现自助点餐，同时商家能够在一定程度上减少服务人员方面的开销。
 
-项目E-order
-
 ## Core Artifacts
 
 - [调研结果](https://github.com/E-Order/Dashboard/blob/master/document/Investigation.md)
