@@ -34,3 +34,5 @@ kanban管理工具：[github kanban](https://github.com/orgs/E-Order/projects/1)
 
 15331213-刘芳：[MySQL的下载安装及使用](https://blog.csdn.net/qq_35278061/article/details/79890250)
 
+15331217-刘亚男：[初识SpringBoot](https://south270.github.io/blog/2018/04/12/first-study-report/)
+
