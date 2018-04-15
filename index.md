@@ -1,6 +1,6 @@
 # index
 ## 一、About(项目规划)
-
+[点击此处查看项目规划文档](https://github.com/E-Order/Dashboard/blob/master/document/About.md)
 ## 二、Team Profile(团队组建)
 团队名称：Cheers
 
@@ -30,4 +30,5 @@ kanban管理工具：[github kanban](https://github.com/orgs/E-Order/projects/1)
 [点击此处查看会议记录](https://github.com/E-Order/Dashboard/blob/master/document/meet_recording.md)
 ## 九、个人学习报告
 15331209-林子琪：[Eclipse使用（Java基础）&Spring boot学习（一） ](https://blog.csdn.net/qq_32335095/article/details/79889667)
+15331213-刘芳：[MySQL的下载安装及使用](https://blog.csdn.net/qq_35278061/article/details/79890250)
 
